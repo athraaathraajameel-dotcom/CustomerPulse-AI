@@ -182,7 +182,7 @@ The dashboard allows users to select a department and explore its associated per
 
 ### Dashboard Preview
 
-![Dashboard](<visuals/CustomerPulse AI Executive Dashboard.png>)
+![CustomerPulse AI Dashboard](visuals/dashboard.png)
 
 ## Key Business Insights
 
